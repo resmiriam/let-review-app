@@ -1,0 +1,38 @@
+"""Illustrative preview questions; not an official or verified LET test."""
+
+PREVIEW_QUESTIONS = {
+    "General Education": [
+        ("What is 15% of 200?", ["15", "20", "30", "45"], 2, "15% = 0.15; 0.15 × 200 = 30."),
+        ("Which fraction is equal to 0.5?", ["1/4", "1/2", "2/3", "3/4"], 1, "One-half equals 0.5."),
+        ("What is the main purpose of a topic sentence?", ["Introduce the main idea", "List every detail", "End the paragraph", "Give a page number"], 0, "A topic sentence introduces the paragraph's main idea."),
+        ("Which word is a synonym of 'rapid'?", ["Slow", "Quiet", "Quick", "Weak"], 2, "'Quick' has a meaning similar to 'rapid'."),
+        ("Which is a renewable energy source?", ["Coal", "Solar energy", "Diesel", "Natural gas"], 1, "Solar energy comes from sunlight, which is naturally replenished."),
+        ("What is the capital of the Philippines?", ["Cebu City", "Davao City", "Manila", "Baguio City"], 2, "Manila is the capital of the Philippines."),
+        ("Which organ pumps blood through the body?", ["Lungs", "Heart", "Liver", "Stomach"], 1, "The heart pumps blood through the circulatory system."),
+        ("What is the perimeter of a square with sides of 4 cm?", ["8 cm", "12 cm", "16 cm", "20 cm"], 2, "Perimeter = 4 × side length = 4 × 4 = 16 cm."),
+        ("Which number is a prime number?", ["9", "15", "17", "21"], 2, "17 has exactly two positive factors: 1 and 17."),
+        ("Which punctuation mark usually ends a direct question?", ["Period", "Comma", "Question mark", "Colon"], 2, "A direct question normally ends with a question mark."),
+        ("Which process do plants use to make food using light?", ["Digestion", "Photosynthesis", "Evaporation", "Fermentation"], 1, "Photosynthesis uses light energy to help plants make sugars."),
+        ("Which is an example of a primary historical source?", ["A diary written at the time", "A modern textbook summary", "A recent encyclopedia", "A review of a documentary"], 0, "A contemporary diary can provide firsthand evidence from the period."),
+        ("What is 3/4 expressed as a percentage?", ["25%", "50%", "75%", "80%"], 2, "3 ÷ 4 = 0.75, which is 75%."),
+        ("Which gas do humans need for normal cellular respiration?", ["Oxygen", "Helium", "Neon", "Hydrogen only"], 0, "Human cells use oxygen in aerobic cellular respiration."),
+        ("If all roses in a garden are flowers, what must be true of a rose in that garden?", ["It is a tree", "It is a flower", "It is a fruit", "It is a mineral"], 1, "The statement places every rose in the category of flowers."),
+    ],
+    "Professional Education": [
+        ("Which approach emphasizes learning by observing others?", ["Social learning theory", "Behaviorism only", "Maturation only", "Memorization only"], 0, "Social learning theory includes learning through observation and modeling."),
+        ("What is the main purpose of formative assessment?", ["Guide learning during instruction", "Only assign final grades", "Replace all lessons", "Rank schools only"], 0, "Formative assessment provides information that can guide teaching and learning."),
+        ("Which practice supports learner-centered teaching?", ["Connecting lessons to learners' needs", "Using one method for every learner", "Avoiding student questions", "Giving no feedback"], 0, "Learner-centered teaching considers learners' needs, experiences, and participation."),
+        ("What does a clear learning objective describe?", ["Expected learning outcome", "Classroom decoration", "Teacher's daily schedule only", "School uniform"], 0, "An objective states what learners should know or be able to do."),
+        ("Which is an example of positive reinforcement?", ["Praising a learner for a helpful behavior", "Ignoring every behavior", "Removing all feedback", "Giving unrelated work"], 0, "Positive reinforcement adds a desirable consequence to encourage a behavior."),
+        ("What should a teacher do when many learners misunderstand a concept?", ["Revisit and teach the concept differently", "Continue without checking", "Blame the learners", "Remove the learning objective"], 0, "Evidence of misunderstanding can guide reteaching and adjustments."),
+        ("Which assessment is most useful for checking understanding during a lesson?", ["A brief exit question", "A year-end report only", "A school inventory", "A seating chart"], 0, "A short check during or at the end of a lesson can reveal current understanding."),
+        ("What does inclusive education aim to support?", ["Meaningful participation of diverse learners", "Identical support in every situation", "Excluding learners who need help", "One learning route for everyone"], 0, "Inclusive education works to reduce barriers and support participation."),
+        ("Which is an example of feedback that helps learning?", ["Your claim is clear; add evidence to support it", "Wrong, try harder", "No comment is needed", "You should already know this"], 0, "Specific feedback explains what is working and what to improve."),
+        ("Why should teachers check prior knowledge?", ["To connect new learning with what learners know", "To avoid teaching new ideas", "To replace lesson planning", "To grade behavior only"], 0, "Prior knowledge can help teachers build meaningful connections."),
+        ("What is a rubric commonly used for?", ["Describe criteria for evaluating work", "Record attendance only", "Choose classroom seats", "Replace learning objectives"], 0, "A rubric outlines criteria and often levels of performance."),
+        ("Which classroom practice encourages active participation?", ["Asking learners to explain their reasoning", "Teacher talk for the entire lesson", "Discouraging discussion", "Avoiding learning activities"], 0, "Explaining reasoning gives learners an active role in learning."),
+        ("What is the purpose of classroom rules?", ["Make expectations clear and support learning", "Punish every mistake", "Prevent all questions", "Replace teaching"], 0, "Clear expectations help maintain a safe, orderly learning environment."),
+        ("When should a teacher adapt instruction?", ["When evidence shows learners need different support", "Never after planning", "Only after the school year", "Whenever a learner asks to skip all work"], 0, "Teachers can use learning evidence to adjust instruction appropriately."),
+        ("What is reflective teaching?", ["Examining teaching to improve future practice", "Repeating every lesson unchanged", "Grading without criteria", "Avoiding learner feedback"], 0, "Reflection helps teachers evaluate what worked and plan improvements."),
+    ],
+}

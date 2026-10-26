@@ -1,0 +1,70 @@
+{
+    "lesson_id": "",
+    "title": "",
+    "subject": "",
+    "branch": null,
+    "topic": "",
+    "subtopics": [],
+    "difficulty": "beginner",
+    "estimated_study_minutes": 20,
+    "curriculum_status": "pending_verification",
+    "official_source": [],
+    "learning_objectives": [],
+    "key_terms": [
+    {
+    "term": "",
+    "definition": ""
+    }
+    ],
+    "lesson_sections": [
+    {
+    "heading": "Introduction",
+    "content": ""
+    },
+    {
+    "heading": "Detailed Explanation",
+    "content": ""
+    },
+    {
+    "heading": "Examples",
+    "content": ""
+    },
+    {
+    "heading": "Summary",
+    "content": ""
+    }
+    ],
+    "formulas": [
+    {
+    "name": "",
+    "formula": "",
+    "variables": [],
+    "worked_solution": ""
+    }
+    ],
+    "practice_questions": [
+    {
+    "question_id": "",
+    "question": "",
+    "question_type": "multiple_choice",
+    "choices": [],
+    "correct_answer": "",
+    "explanation": "",
+    "difficulty": "beginner",
+    "source": "original",
+    "review_status": "pending_review"
+    }
+    ],
+    "common_mistakes": [],
+    "memory_tips": [],
+    "related_lesson_ids": [],
+    "content_quality": {
+    "original_content": true,
+    "plagiarism_checked": false,
+    "accuracy_reviewed": false,
+    "reviewer_notes": ""
+    },
+    "created_at": null,
+    "updated_at": null
+    }
+    

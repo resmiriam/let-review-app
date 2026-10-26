@@ -1,0 +1,113 @@
+{
+    "project": "LET Review App",
+    "version": "1.0",
+    "last_verified": null,
+    "official_alignment_status": "pending_verification",
+    "examinee_profile": {
+    "degree": "BTVTED",
+    "major": "Food and Service Management",
+    "has_applied_for_let": false,
+    "prc_eligibility_status": "unconfirmed"
+    },
+    "content_policy": {
+    "original_content_required": true,
+    "ai_assisted_content_allowed": true,
+    "plagiarism_prohibited": true,
+    "unauthorized_copyrighted_materials_prohibited": true,
+    "source_tracking_required": true,
+    "human_accuracy_review_required": true
+    },
+    "examination_pathways": {
+    "general_education": {
+    "status": "pending_verification",
+    "topics": []
+    },
+    "professional_education": {
+    "status": "pending_verification",
+    "topics": []
+    },
+    "specialization_or_tvted": {
+    "status": "pending_verification",
+    "topics": []
+    }
+    },
+    "tle_learning_library": {
+    "purpose": "Supplementary learning library; not automatically part of the verified examination coverage",
+    "status": "not_yet_mapped_to_official_tos",
+    "branches": {
+    "AFA": {
+    "name": "Agriculture and Fishery Arts",
+    "topics": []
+    },
+    "HE": {
+    "name": "Home Economics",
+    "topics": []
+    },
+    "ICT": {
+    "name": "Information and Communications Technology",
+    "topics": []
+    },
+    "IA": {
+    "name": "Industrial Arts",
+    "topics": []
+    }
+    }
+    },
+    "topic_record_template": {
+    "topic_id": "",
+    "subject": "",
+    "topic": "",
+    "subtopics": [],
+    "learning_competencies": [],
+    "official_source": "",
+    "official_tos_reference": "",
+    "examination_weight": null,
+    "verification_status": "unverified",
+    "content_status": "not_created",
+    "is_supplementary": false
+    },
+    "learning_material_requirements": {
+    "original_explanations": true,
+    "simple_definitions": true,
+    "detailed_handouts": true,
+    "examples": true,
+    "formulas_and_worked_solutions_when_applicable": true,
+    "original_practice_questions": true,
+    "answer_keys": true,
+    "answer_explanations": true,
+    "mock_examinations": true,
+    "source_records": true,
+    "human_accuracy_review": true
+    },
+    "adaptive_learning_requirements": {
+    "track_every_attempt": true,
+    "identify_repeated_mistakes": true,
+    "identify_weak_topics": true,
+    "support_confidence_or_guess_tracking": true,
+    "do_not_count_guessed_correct_answers_as_mastery": true,
+    "use_spaced_repetition": true,
+    "continue_full_curriculum_coverage": true,
+    "save_progress_persistently": true
+    },
+    "study_planner_requirements": {
+    "planned_duration_weeks": 24,
+    "personalized_schedule": true,
+    "account_for_work_and_commute": true,
+    "account_for_personal_obligations": true,
+    "include_rest_and_sleep": true,
+    "adjustable_schedule": true
+    },
+    "data_and_privacy_requirements": {
+    "collect_only_necessary_data": true,
+    "protect_learner_progress": true,
+    "do_not_claim_unimplemented_features": true
+    },
+    "verification_rules": [
+    "Verify applicable examination requirements against current official PRC sources.",
+    "Do not invent examination topics, competencies, or weights.",
+    "Keep supplementary TLE learning topics separate from verified examination requirements.",
+    "Record the source and verification status of every officially mapped topic.",
+    "Do not claim PRC endorsement or guarantee examination success.",
+    "Review AI-assisted learning materials for accuracy and originality."
+    ]
+    }

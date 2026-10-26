@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.bak
+*.bak.*
+app.py.*
+app_before_*.py
+app_backup.py
+app_code_backup.txt
+data/let_review.db
+data/learner_id.txt
