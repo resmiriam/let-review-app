@@ -2048,6 +2048,132 @@ if page == "Welcome":
         color: #14233B !important;
     }
 
+
+    /* ORIVAN Welcome planner: white, gold, and navy theme */
+    div[data-testid="stForm"] {
+        background: #FFFFFF !important;
+        border: 1px solid #D9BD80 !important;
+        border-radius: 18px !important;
+        color: #14233B !important;
+    }
+
+    div[data-testid="stForm"] .planner-step {
+        background: #FFFFFF !important;
+        border: 1px solid #D9BD80 !important;
+        border-left: 4px solid #D9BD80 !important;
+        border-radius: 12px !important;
+        padding: 14px 16px !important;
+        color: #14233B !important;
+    }
+
+    div[data-testid="stForm"] .planner-step strong {
+        color: #14233B !important;
+    }
+
+    div[data-testid="stForm"] .planner-step small {
+        background: #FFFFFF !important;
+        color: #84652F !important;
+        border: 1px solid #D9BD80 !important;
+    }
+
+    div[data-testid="stForm"] input,
+    div[data-testid="stForm"] textarea,
+    div[data-testid="stForm"] [data-baseweb="select"] > div {
+        background-color: #FFFFFF !important;
+        color: #14233B !important;
+        border-color: #D9BD80 !important;
+        border-radius: 9px !important;
+    }
+
+    div[data-testid="stForm"] label {
+        color: #14233B !important;
+    }
+
+    div[data-testid="stForm"] input:focus,
+    div[data-testid="stForm"] textarea:focus,
+    div[data-testid="stForm"] [data-baseweb="select"] > div:focus-within {
+        border-color: #B99553 !important;
+        box-shadow: 0 0 0 2px rgba(185, 149, 83, 0.25) !important;
+    }
+
+
+    /* ORIVAN final white-gold-navy control fix */
+
+    div[data-testid="stForm"] {
+        background: #FFFFFF !important;
+        color: #14233B !important;
+    }
+
+    /* Text fields and date inputs */
+    div[data-testid="stForm"] input,
+    div[data-testid="stForm"] textarea {
+        background: #FFFFFF !important;
+        background-color: #FFFFFF !important;
+        color: #14233B !important;
+        -webkit-text-fill-color: #14233B !important;
+        border: 1px solid #D9BD80 !important;
+        color-scheme: light !important;
+    }
+
+    /* Dropdown control: override dark theme backgrounds */
+    div[data-testid="stForm"] [data-baseweb="select"] > div {
+        background: #FFFFFF !important;
+        background-color: #FFFFFF !important;
+        color: #14233B !important;
+        border: 1px solid #D9BD80 !important;
+        box-shadow: none !important;
+    }
+
+    div[data-testid="stForm"] [data-baseweb="select"] input {
+        background: #FFFFFF !important;
+        color: #14233B !important;
+        -webkit-text-fill-color: #14233B !important;
+    }
+
+    div[data-testid="stForm"] [data-baseweb="select"] span,
+    div[data-testid="stForm"] [data-baseweb="select"] svg {
+        color: #14233B !important;
+        fill: #14233B !important;
+    }
+
+    /* Navy labels and headings */
+    div[data-testid="stForm"] label,
+    div[data-testid="stForm"] .planner-step strong {
+        color: #14233B !important;
+    }
+
+    /* Replace the pink selected radio with navy and gold */
+    div[data-testid="stForm"] [role="radio"][aria-checked="true"] {
+        border-color: #14233B !important;
+    }
+
+    div[data-testid="stForm"] [role="radio"][aria-checked="true"] > div {
+        background-color: #14233B !important;
+        border-color: #D9BD80 !important;
+    }
+
+    div[data-testid="stForm"] input[type="radio"],
+    div[data-testid="stForm"] input[type="checkbox"] {
+        accent-color: #14233B !important;
+    }
+
+    /* Gold focus border */
+    div[data-testid="stForm"] input:focus,
+    div[data-testid="stForm"] textarea:focus,
+    div[data-testid="stForm"] [data-baseweb="select"] > div:focus-within {
+        border-color: #B99553 !important;
+        box-shadow: 0 0 0 2px rgba(185, 149, 83, 0.25) !important;
+    }
+
+    /* White step cards */
+    div[data-testid="stForm"] .planner-step {
+        background: #FFFFFF !important;
+        border: 1px solid #D9BD80 !important;
+        border-left: 4px solid #D9BD80 !important;
+        border-radius: 12px !important;
+        padding: 14px 16px !important;
+    }
+
     </style>
     <div class="planner-heading">
       <div class="eyebrow">Your life. Your pace. Your future.</div>
